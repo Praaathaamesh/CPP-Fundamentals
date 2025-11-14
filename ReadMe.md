@@ -13,7 +13,7 @@
 ## Resources 📖
 <i> All the resources mentioned below are considered under personal preference.</i>
 - [Learn Cpp](https://www.learncpp.com) 
-- [Bro Code](https://www.youtube.com/@BroCodez)
+- [Bro Code YouTube Channel](https://www.youtube.com/@BroCodez)
 
 
 ------
