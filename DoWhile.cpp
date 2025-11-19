@@ -3,15 +3,14 @@
  Do this code
  then check the while condition
  */
-
+#include <iostream>
 int main()
 {
-	using namespace std;
 	int Number;
 	do{
-	cout << "Please enter the desired number ";
-	getline(cin, Number)
-	}while(Number>0)
+	std::cout << "Please enter the desired number ";
+	std::getline(cin, Number);
+	}while(Number>0);
 
 return 0;
 }
