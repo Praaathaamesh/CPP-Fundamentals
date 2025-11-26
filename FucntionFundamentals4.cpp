@@ -10,6 +10,6 @@ int main(){
 	std::string Name = "x0d01dc1";
 	int Age = 12;
 	
-	greet(std::string Name, int Age);
+	greet(Name, Age);
 	return 0;
 }
