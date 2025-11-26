@@ -8,6 +8,6 @@ void greet(std::string name){ // parameter name string specified
 
 int main(){
 	std::string Name = "Bro";
-	greet(std::string Name); // argument passed
+	greet(Name); // argument passed
 	return 0;
 }
