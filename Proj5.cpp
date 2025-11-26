@@ -7,12 +7,12 @@ int main(){
 	int guess;
 	int tries;
 	srand(time(NULL));
-	num = (rand() % 100 )+1
+	num = (rand() % 100 )+1;
 	
 	std::cout << "*****SNGG*****\n";
 
 	do{
-		std::cout << "Please enter the number between 1 and 100";
+		std::cout << "Please enter the number between 1 and 100: ";
 		std::cin >> guess;
 		tries++;
 
