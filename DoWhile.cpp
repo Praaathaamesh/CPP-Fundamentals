@@ -4,13 +4,14 @@
  then check the while condition
  */
 #include <iostream>
-int main()
-{
-	int Number;
-	do{
-	std::cout << "Please enter the desired number ";
-	std::getline(cin, Number);
-	}while(Number>0);
+using namespace std;
 
-return 0;
+int main(){
+    string str;
+    do{
+        cout << "Enter text: ";
+        getline(cin, str);
+        cout << "You entered: " << str << endl;
+    }while (str != "goodbye");
+    return 0;
 }
