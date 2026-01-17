@@ -1,11 +1,10 @@
 // Useful string methods
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	use namespace std;
-	
 	// getline method to take the input for a variable
 	string name;
 	cout << "Suffice the suitable name ";
