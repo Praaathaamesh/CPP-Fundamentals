@@ -23,7 +23,8 @@ int main()
         std::cout << "Unit input accepted.";
     }
 
-    // system("pause"); custom "press any key to continue" msg
+    // system("pause"); custom "press any key to continue" msg; console-specific command
+    // Hence not using it here
 
     return 0;
 }
